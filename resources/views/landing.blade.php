@@ -223,6 +223,6 @@
         </footer>
     </div>
 
-    <script src="{{ asset('template/dist/js/main.min.js')}}"></script>
+        @include('base.include-js')
 </body>
 </html>
