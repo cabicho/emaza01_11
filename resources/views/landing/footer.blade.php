@@ -3,7 +3,11 @@
                 <div class="site-footer-inner">
                     <div class="brand footer-brand">
 						<a href="#">
-							<img class="header-logo-image" src="{{ asset('template/dist/images/logo.svg')}}" alt="Logo">
+							<img 
+                            class="header-logo-image" 
+                            src="{{ asset('contents/logo.jpg')}}" 
+                            alt="Logo"
+                            style="width: 50px; height: 50px">
 						</a>
                     </div>
                     <ul class="footer-links list-reset">
