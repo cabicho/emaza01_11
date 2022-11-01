@@ -3,9 +3,12 @@
                 <div class="container">
                     <div class="hero-inner">
 						<div class="hero-copy">
-	                        <h1 class="hero-title mt-0">Landing template for startups</h1>
-	                        <p class="hero-paragraph">Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.</p>
-	                        <div class="hero-cta"><a class="button button-primary" href="#">Pre order now</a><a class="button" href="#">Get in touch</a></div>
+	                        <h1 class="hero-title mt-0">Bem vindo ao Servidor de bolos deliciosos</h1>
+	                        <p class="hero-paragraph">Este servidor processa todas as informacoes sobre bolos</p>
+	                        <div class="hero-cta"><a class="button button-primary" href="https://play.google.com/store/apps" target="_blank">
+                                Baixar App</a>
+                                <a class="button" href="/admin">
+                                Entrar </a></div>
 						</div>
 						<div class="hero-figure anime-element">
 							<svg class="placeholder" width="528" height="396" viewBox="0 0 528 396">
@@ -35,8 +38,11 @@
                                     <div class="feature-icon">
 										<img src="{{ asset('template/dist/images/feature-icon-01.svg')}}" alt="Feature 01">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
-                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                    <h4 class="feature-title mt-24">
+                                        Aprenda a fazer bolo caseiro</h4>
+                                    <p class="text-sm mb-0">
+                                        Surprienda a familia fazendo o bolo gostoso
+                                    </p>
                                 </div>
                             </div>
 							<div class="feature text-center is-revealing">
@@ -44,8 +50,11 @@
                                     <div class="feature-icon">
 										<img src="{{ asset('template/dist/images/feature-icon-02.svg')}}" alt="Feature 02">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
-                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                    <h4 class="feature-title mt-24">
+                                        Aprenda a fazer bolo caseiro</h4>
+                                    <p class="text-sm mb-0">
+                                        Surprienda a familia fazendo o bolo gostoso
+                                    </p>
                                 </div>
                             </div>
                             <div class="feature text-center is-revealing">
@@ -54,7 +63,11 @@
 										<img src="{{ asset('template/dist/images/feature-icon-03.svg')}}" alt="Feature 03">
                                     </div>
                                     <h4 class="feature-title mt-24">Be Productive</h4>
-                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                    <h4 class="feature-title mt-24">
+                                        Aprenda a fazer bolo caseiro</h4>
+                                    <p class="text-sm mb-0">
+                                        Surprienda a familia fazendo o bolo gostoso
+                                    </p>
                                 </div>
                             </div>
                             <div class="feature text-center is-revealing">
@@ -62,8 +75,11 @@
                                     <div class="feature-icon">
 										<img src="{{ asset('template/dist/images/feature-icon-04.svg')}}" alt="Feature 04">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
-                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                    <h4 class="feature-title mt-24">
+                                        Aprenda a fazer bolo caseiro</h4>
+                                    <p class="text-sm mb-0">
+                                        Surprienda a familia fazendo o bolo gostoso
+                                    </p>
                                 </div>
                             </div>
 							<div class="feature text-center is-revealing">
@@ -71,8 +87,11 @@
                                     <div class="feature-icon">
 										<img src="{{ asset('template/dist/images/feature-icon-05.svg')}}" alt="Feature 05">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
-                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                    <h4 class="feature-title mt-24">
+                                        Aprenda a fazer bolo caseiro</h4>
+                                    <p class="text-sm mb-0">
+                                        Surprienda a familia fazendo o bolo gostoso
+                                    </p>
                                 </div>
                             </div>
                             <div class="feature text-center is-revealing">
@@ -80,8 +99,11 @@
                                     <div class="feature-icon">
 										<img src="{{ asset('template/dist/images/feature-icon-06.svg')}}" alt="Feature 06">
                                     </div>
-                                    <h4 class="feature-title mt-24">Be Productive</h4>
-                                    <p class="text-sm mb-0">Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. A arcu cursus vitae congue mauris. Nam at lectus urna duis convallis. Mauris rhoncus aenean vel elit scelerisque mauris.</p>
+                                    <h4 class="feature-title mt-24">
+                                        Aprenda a fazer bolo caseiro</h4>
+                                    <p class="text-sm mb-0">
+                                        Surprienda a familia fazendo o bolo gostoso
+                                    </p>
                                 </div>
                             </div>
                         </div>
