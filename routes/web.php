@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\GenericController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +15,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/', /*function () {
     return view('welcome');
-});
+}*/ /*Route for [/] has no action. */
+	[GenericController::class, 'landing']
+);
